@@ -1,0 +1,33 @@
+# LongCat-Flash-Omni Analysis Documentation
+
+This documentation is provided for educational and research purposes.
+
+The analysis content is based on the open-source LongCat-Flash-Omni project
+by the Meituan LongCat Team.
+
+## Disclaimer
+
+This documentation is a technical analysis of the LongCat-Flash-Omni model
+architecture and implementation. It is not officially affiliated with or
+endorsed by the Meituan LongCat Team.
+
+## License
+
+This documentation is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit and indicate if changes
+  were made.
+
+## Original Project
+
+The original LongCat-Flash-Omni project is available at:
+https://github.com/meituan-longcat/LongCat-Flash-Omni
+
+Please refer to the original project repository for the model's license
+and usage terms.
